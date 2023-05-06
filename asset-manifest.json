@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Wrap/static/css/main.2543b9d3.css",
+    "main.js": "/Text-Wrap/static/js/main.df33ab90.js",
+    "index.html": "/Text-Wrap/index.html",
+    "main.2543b9d3.css.map": "/Text-Wrap/static/css/main.2543b9d3.css.map",
+    "main.df33ab90.js.map": "/Text-Wrap/static/js/main.df33ab90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.df33ab90.js"
+  ]
+}
